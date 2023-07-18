@@ -1,3 +1,5 @@
+![workflow](https://github.com/l1sser/kittygram_final/actions/workflows/main.yml/badge.svg)
+
 Социальная сеть любителей котов Kittygram
 
 Проект развернут на сайте: https://catgram.ddns.net/
