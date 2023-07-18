@@ -1,4 +1,4 @@
-![workflow](https://github.com/l1sser/kittygram_final/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/PractLis/kittygram_final/actions/workflows/main.yml/badge.svg)
 
 Социальная сеть любителей котов Kittygram
 
@@ -28,3 +28,5 @@ cd kittygram_final</b>
 
 <b>docker compose exec backend cp -r /app/collected_static/. /static/static/</b>
 Сайт будет доступен по адресу http://127.0.0.1:9000/ .
+
+Создатель Лис <a href='https://github.com/PractLis'>Github</a>
