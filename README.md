@@ -13,8 +13,8 @@ Python 3.9, Django 3.2.3, Django REST framework
 Запуск проекта в dev-режиме
 Клонируйте репозиторий и перейдите в него в командной строке:
 
-<b>git clone https://github.com/l1sser/kittygram_final.git
-cd kittygram_final</b>
+<b>git clone https://github.com/l1sser/kittygram_final.git</b>
+<b>cd kittygram_final</b>
 
 Запустите проект с помощью команды:
 
